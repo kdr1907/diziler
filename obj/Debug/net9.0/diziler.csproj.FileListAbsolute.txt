@@ -1,0 +1,14 @@
+c:\Users\kdrok\Desktop\diziler\bin\Debug\net9.0\diziler.exe
+c:\Users\kdrok\Desktop\diziler\bin\Debug\net9.0\diziler.deps.json
+c:\Users\kdrok\Desktop\diziler\bin\Debug\net9.0\diziler.runtimeconfig.json
+c:\Users\kdrok\Desktop\diziler\bin\Debug\net9.0\diziler.dll
+c:\Users\kdrok\Desktop\diziler\bin\Debug\net9.0\diziler.pdb
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.AssemblyInfoInputs.cache
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.AssemblyInfo.cs
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.csproj.CoreCompileInputs.cache
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.dll
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\refint\diziler.dll
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.pdb
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\diziler.genruntimeconfig.cache
+c:\Users\kdrok\Desktop\diziler\obj\Debug\net9.0\ref\diziler.dll
